@@ -8,3 +8,4 @@ This game was only intended for friends that are in the same area!
 decide who is player x and who is player o, then pick your spot with your mouse on the 3x3 grid!
 
 ## Gameshot
+https://raw.githubusercontent.com/ProjectDest/ticky-tac-toe/main/Screenshots/Maingame.jpeg
